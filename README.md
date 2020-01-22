@@ -7,4 +7,4 @@ Some added content, on a branch
 
 SOme content added again...........
 
-Ram Krishna Basak
+Krishna Basak
